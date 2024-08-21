@@ -1,0 +1,141 @@
+.logo-img {
+    height: 50px;
+    width: 50px;
+}
+
+.span-el {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 6px;
+}
+
+/* .icons{
+    
+} */
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.bg-img {
+    background-image: url('https://res.cloudinary.com/dvwqbrydn/image/upload/v1724153323/cfuoiuy7uwajqk3ns6up.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+.para-block {
+    height: 40px;
+    width: 240px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(126, 126, 130, 1) 100%, rgba(0, 212, 255, 1) 100%);
+
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+
+
+.bg-para {
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.para-bg {
+    background-color: #939694;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 100%;
+}
+
+.para-text {
+    font-family: 'Roboto';
+    font-size: 12px;
+    color: black;
+
+}
+
+.para-div {
+    height: 100px;
+    width: 500px;
+    padding-left: 20px;
+}
+
+.bottom-div {
+    background-color: #e3e6e4;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.bottom-h1 {
+    font-family: 'Roboto';
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-left: 70px;
+
+}
+
+.bottom-img {
+    height: 120px;
+    width: 160px;
+}
+
+.card-h {
+    font-family: 'Roboto';
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+
+.card-p {
+    font-family: 'Roboto';
+    font-size: 12px;
+    color: black;
+    font-weight: 400;
+}
+
+.card {
+    height: 600px;
+    width: 240px;
+    padding: 20px;
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+
+
+}
+
+.btn {
+    height: 30px;
+    width: 120px;
+    font-size: 12px;
+    color: white;
+    background-color: black;
+}
